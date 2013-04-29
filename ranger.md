@@ -13,4 +13,5 @@ Skills
 ### Pinpoint Shot:
 > The ranger concentrates intensely and aims for a killing shot. Disallowing movement while charging leaving him more vulnerable to incoming damage, but dealing massive amounts of damage to the target.
 
-### 
+### Master of the Hunt:
+> The ranger knows each of his enemies weaknesses thoroughly, gaining a various statistical bonus depending on which type of foe he faces.
