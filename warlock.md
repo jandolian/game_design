@@ -9,3 +9,6 @@ Skills
 
 ### Warp Mind:
 > The warlock uses his knowledge of the inner workings of the mind to cast a spell on the target causing it to go insane. Making it unable to control its movements for a short duration.
+
+### Cruel Magic:
+> The warlock builds hatred for other wielders of magical abilities gaining charges for each spell cast within a large distance around him. He can release that rage through a powerful wave of magic in a small raius around him, dealing damage based on the number of charges aquired up to a cap.
