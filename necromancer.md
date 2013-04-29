@@ -12,3 +12,6 @@ Skills:
 
 ### Twist Soul:
 > Fires an orb of dark energy at the target that deals magical damage based on a percentage of the targets maximum hit points.
+
+### Drain Life:
+> Drains the targets hitpoints over a period of time, replenishing the caster's hitpoints based on a percentage of the damage done.
