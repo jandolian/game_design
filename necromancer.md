@@ -9,3 +9,6 @@ Skills:
 
 ### Raise Dead:
 > Raise skeleton fighters, zombies, various other creatures to fight enemies for a short duration.
+
+### Twist Soul:
+> Fires an orb of dark energy at the target that deals magical damage based on a percentage of the targets maximum hit points.
