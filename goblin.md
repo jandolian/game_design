@@ -12,3 +12,6 @@ Skills
 
 ### Toe Spike:
 > The goblin uses his no holds barred approach to warfare and smashes the target's toes with his mainhand melee weapon causing a medium amount of damage which is increased if the target is under the effect of a blind or stun.
+
+### Goblin Snot:
+> The goblin uses his corrosive snot as a weapon, launching a snot rocket at a target that decreases their magical and physical resistance over a short duration.
