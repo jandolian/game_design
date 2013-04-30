@@ -12,3 +12,6 @@ Skills
 
 ### Stampede:
 > The druid uses his vast knowledge of animal calls to direct a devestating stampede of various animals in the direction of his enemies. The stampede briefly stuns the target and deals large amounts of magical damage.
+
+### Gaea's Anger:
+> The druid focuses the vast power of nature's fury into an area on the ground. Causing the ground in the area to split apart dealing massive amounts of damage and causing a disorienting effect which decreases movement speed of the target.
