@@ -12,3 +12,6 @@ Skills
 
 ### Lightning Reflexes:
 > The assassin is able to focus his mind during battle, allowing him the chance to passively dodge incoming strikes.
+
+### Spinal Strike:
+> The assassin is trained in the art of quick killing allowing him to deliver a targeted strike that deals extra damage while his target is under disorienting or stunning effects.
