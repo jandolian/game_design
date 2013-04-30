@@ -9,3 +9,6 @@ Skills
 
 ### Smoke Screen: 
 > The assassin throws a smoke bomb onto the ground concealing his movements and blinding his enemies for a short duration within a medium radius around the bomb.
+
+### Lightning Reflexes:
+> The assassin is able to focus his mind during battle, allowing him the chance to passively dodge incoming strikes.
